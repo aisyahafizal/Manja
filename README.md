@@ -56,3 +56,4 @@ Result:
 ## Limitation
 
 The character count includes spaces and punctuation marks. Therefore, the character count may not represent only letters in the sentence.
+"# Manja" 
